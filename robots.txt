@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sophia4martinez.github.io/sitemap.xml
